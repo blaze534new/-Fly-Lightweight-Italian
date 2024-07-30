@@ -1,0 +1,9 @@
+name: Fly
+main: blaze534.Main
+version: 1.9 Public
+author: blaze534
+description: Plugin Tutorial
+commands:
+     fly:
+      description: Vola su minecraft
+      aliases: [vola, volo]
